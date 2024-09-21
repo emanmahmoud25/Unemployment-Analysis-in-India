@@ -1,7 +1,7 @@
 
 # Unemployment Analysis in India
 
-![hindi](https://github.com/user-attachments/assets/cd44adda-280d-47a0-aa82-4031553ea55c)
+![hindi](https://github.com/user-attachments/assets/f00b3be0-1802-4a97-8296-ce1ce6e49ab8)
 
 This project conducts a comprehensive analysis of unemployment rates across various states in India, utilizing a dataset containing monthly unemployment statistics.
 ## Overview
