@@ -29,7 +29,7 @@ The dataset underwent several cleaning processes, including:
 - Trends in unemployment , employment ,labour_participation rates over time across different states.
 ![unemployment](https://github.com/user-attachments/assets/852b3a16-2135-412a-9845-02d0cfdd2bcb)
 
-- Comparisons of unemployment rates and labor participation rates by region, highlighting disparities between Urban and Rural areas.
+- Comparisons of unemployment rates and employment rates by region, highlighting disparities between Urban and Rural areas.
 - ![pie](https://github.com/user-attachments/assets/44fd9662-cd22-4e02-8ce8-2087771094e5)
 
 ## Conclusion
